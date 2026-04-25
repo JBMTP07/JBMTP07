@@ -1,17 +1,14 @@
 # Hey, ich bin Josef. 👋
 
-Angehender Penetration Tester mit einem Hintergrund, den die meisten nicht haben:  
-Ich komme aus der Industrie — Mechatronik, Siemens S7, SCADA-Systeme — und bringe das in die Cybersecurity mit.
-
-Seit 2020 aktiv in Bug Bounty (private Programme via HackerOne & Bugcrowd), regelmäßig auf HackTheBox, und nebenbei halte ich kostenlose Vorträge an Schulen zu KI-Sicherheit und Cybersecurity.
+Penetration Tester mit praktischem Ansatz — seit 2020 aktiv in Bug Bounty (private Programme via HackerOne & Bugcrowd), regelmäßig auf HackTheBox, und nebenbei halte ich kostenlose Vorträge an Schulen zu KI-Sicherheit und Cybersecurity.
 
 ---
 
 ## Was ich mache
 
-- **Penetration Testing** — Web, API, Netzwerk, grundlegendes AD
-- **OT/ICS Security** — Siemens S7, industrielle Steuerungssysteme aus der Praxis
+- **Penetration Testing** — Web, API, Netzwerk, AD
 - **Bug Bounty** — private & invite-only Programme (HackerOne, Bugcrowd)
+- **Red Team** — Homelab, HTB, Methodik-Entwicklung
 - **Security Awareness** — Vorträge an Schulen zu LLMs, KI-Risiken & Cybersecurity
 
 ---
@@ -20,10 +17,10 @@ Seit 2020 aktiv in Bug Bounty (private Programme via HackerOne & Bugcrowd), rege
 
 ```
 Offensive:    Burp Suite · Metasploit · Nmap · Hydra · Nessus · Wireshark
-OT/ICS:       Siemens S7 · SCADA · SPS-Grundlagen
+AD/RedTeam:   BloodHound · Kerberoasting · AS-REP Roasting
 Scripting:    Python · Bash · JavaScript
 Infra:        Docker · Terraform · CI/CD-Grundlagen
-OS:           Kali Linux · Windows · Active Directory (Grundlagen)
+OS:           Kali Linux · Windows · Active Directory
 ```
 
 ---
@@ -32,8 +29,8 @@ OS:           Kali Linux · Windows · Active Directory (Grundlagen)
 
 | Repo | Inhalt |
 |------|--------|
-| [HTB-Writeups](https://github.com/MALICEMTP07/HTB-Writeups) | Deutsche Writeups für retired HTB Machines |
-| [Study-Notes](https://github.com/MALICEMTP07/Study-Notes) | Methodologie, AD-Angriffe, Linux Privesc, Nmap, Burp |
+| [HTB-Writeups](https://github.com/JBMTP07/HTB-Writeups) | Deutsche Writeups für retired HTB Machines |
+| [Study-Notes](https://github.com/JBMTP07/Study-Notes) | Methodologie, AD-Angriffe, Linux Privesc, Nmap, Burp |
 
 ---
 
@@ -52,4 +49,5 @@ OS:           Kali Linux · Windows · Active Directory (Grundlagen)
 ## Kontakt
 
 📧 josefbasner@proton.me  
+🌐 jbmtp07.github.io  
 🌍 Deutschland · Remote weltweit möglich
