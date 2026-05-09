@@ -1,14 +1,17 @@
 # Hey, ich bin Josef. 👋
 
-Penetration Tester mit praktischem Ansatz — seit 2020 aktiv in Bug Bounty (private Programme via HackerOne & Bugcrowd), regelmäßig auf HackTheBox, und nebenbei halte ich kostenlose Vorträge an Schulen zu KI-Sicherheit und Cybersecurity.
+**Penetration Tester** mit OT/ICS-Background. Seit 2020 aktiv in Bug Bounty (private Programme via HackerOne & Bugcrowd), regelmäßig auf HackTheBox, halte kostenlose Vorträge an Schulen zu KI-Sicherheit und Cybersecurity.
+
+🎯 **Aktuell offen für Pentest-/Red-Team-Rollen — Remote weltweit oder Deutschland.**
 
 ---
 
 ## Was ich mache
 
-- **Penetration Testing** — Web, API, Netzwerk, AD
+- **Penetration Testing** — Web, API, Netzwerk, Active Directory
 - **Bug Bounty** — private & invite-only Programme (HackerOne, Bugcrowd)
-- **Red Team** — Homelab, HTB, Methodik-Entwicklung
+- **Red Team** — Homelab, HTB, eigene Methodik
+- **OT/ICS Security** — Hintergrund aus der industriellen Automatisierung
 - **Security Awareness** — Vorträge an Schulen zu LLMs, KI-Risiken & Cybersecurity
 
 ---
@@ -17,9 +20,9 @@ Penetration Tester mit praktischem Ansatz — seit 2020 aktiv in Bug Bounty (pri
 
 ```
 Offensive:    Burp Suite · Metasploit · Nmap · Hydra · Nessus · Wireshark
-AD/RedTeam:   BloodHound · Kerberoasting · AS-REP Roasting
+AD/RedTeam:   BloodHound · Kerberoasting · AS-REP Roasting · Mimikatz
 Scripting:    Python · Bash · JavaScript
-Infra:        Docker · Terraform · CI/CD-Grundlagen
+Infra:        Docker · Terraform · CI/CD
 OS:           Kali Linux · Windows · Active Directory
 ```
 
@@ -30,11 +33,12 @@ OS:           Kali Linux · Windows · Active Directory
 | Repo | Inhalt |
 |------|--------|
 | [HTB-Writeups](https://github.com/JBMTP07/HTB-Writeups) | Deutsche Writeups für retired HTB Machines |
-| [Study-Notes](https://github.com/JBMTP07/Study-Notes) | Methodologie, AD-Angriffe, Linux Privesc, Nmap, Burp |
+| [Study-Notes](https://github.com/JBMTP07/Study-Notes) | Methodik: AD-Angriffe, Linux PrivEsc, Nmap, Burp |
+| [JBMTP07.github.io](https://github.com/JBMTP07/JBMTP07.github.io) | Portfolio & CV |
 
 ---
 
-## Zertifizierungen (in Vorbereitung ab Mai 2026)
+## Zertifizierungen (in Progress, 2026)
 
 - CompTIA Network+
 - CompTIA Security+
@@ -42,12 +46,18 @@ OS:           Kali Linux · Windows · Active Directory
 - CompTIA PenTest+
 - EC-Council CEH v13
 
-*Kurse abgeschlossen über New Horizons (zertifizierter Bildungsträger)*
+*Kurse über New Horizons (zertifizierter Bildungsträger)*
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=JBMTP07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 
 ---
 
 ## Kontakt
 
 📧 josefbasner@proton.me  
-🌐 jbmtp07.github.io  
+🌐 [jbmtp07.github.io](https://jbmtp07.github.io)  
 🌍 Deutschland · Remote weltweit möglich
