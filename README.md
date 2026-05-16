@@ -32,6 +32,7 @@ OS:           Kali Linux · Windows · Active Directory
 
 | Repo | Inhalt |
 |------|--------|
+| 🔴 [bug-bounty-reports](https://github.com/JBMTP07/bug-bounty-reports) | **Sanitisierte Bug-Bounty-Reports** — Chained RCE (CVSS 9.9), Command Injection (CVSS 9.8) |
 | [HTB-Writeups](https://github.com/JBMTP07/HTB-Writeups) | Deutsche Writeups für retired HTB Machines |
 | [Study-Notes](https://github.com/JBMTP07/Study-Notes) | Methodik: AD-Angriffe, Linux PrivEsc, Nmap, Burp |
 | [JBMTP07.github.io](https://github.com/JBMTP07/JBMTP07.github.io) | Portfolio & CV |
