@@ -1,8 +1,9 @@
 # Hey, ich bin Josef. 👋
 
-**Penetration Tester** mit OT/ICS-Background. Seit 2020 aktiv in Bug Bounty (private Programme via HackerOne & Bugcrowd), regelmäßig auf HackTheBox, halte kostenlose Vorträge an Schulen zu KI-Sicherheit und Cybersecurity.
+**Penetration Tester & Security Researcher.** Seit 2020 aktiv in Bug Bounty (HackerOne & Bugcrowd, **20+ verifizierte Findings**), regelmäßig auf HackTheBox, halte kostenlose Vorträge an Schulen zu KI-Sicherheit und Cybersecurity. Hintergrund aus der industriellen Automatisierung (Siemens S7, SCADA) — direkter Zugang zu OT/ICS-Security.
 
-🎯 **Aktuell offen für Pentest-/Red-Team-Rollen — Remote weltweit oder Deutschland.**
+🎯 **Offen für Pentest-/Red-Team-Rollen** — Remote weltweit oder Deutschland.  
+🛡️ **Betreibe [JB] Security**, eigene Freelance-Pentest-Praxis: [jbmtp07.github.io/jb-security](https://jbmtp07.github.io/jb-security)
 
 ---
 
@@ -32,6 +33,7 @@ OS:           Kali Linux · Windows · Active Directory
 
 | Repo | Inhalt |
 |------|--------|
+| 🛡️ [jb-security](https://github.com/JBMTP07/jb-security) | **[JB] Security** — Freelance-Pentest-Site (Web, AD, OT/ICS · OWASP, PTES, NIST, MITRE) |
 | 🔴 [bug-bounty-reports](https://github.com/JBMTP07/bug-bounty-reports) | **Sanitisierte Bug-Bounty-Reports** — Chained RCE (CVSS 9.9), Command Injection (CVSS 9.8) |
 | [HTB-Writeups](https://github.com/JBMTP07/HTB-Writeups) | Deutsche Writeups für retired HTB Machines |
 | [Study-Notes](https://github.com/JBMTP07/Study-Notes) | Methodik: AD-Angriffe, Linux PrivEsc, Nmap, Burp |
@@ -39,15 +41,17 @@ OS:           Kali Linux · Windows · Active Directory
 
 ---
 
-## Zertifizierungen (in Progress, 2026)
+## Zertifizierungen (2026)
 
-- CompTIA Network+
-- CompTIA Security+
-- CompTIA Linux+
-- CompTIA PenTest+
-- EC-Council CEH v13
+| Zertifizierung | Anbieter | Status |
+|----------------|----------|--------|
+| Network+ | CompTIA | ✅ Kurs abgeschlossen |
+| Security+ | CompTIA | 📅 Prüfung: 30.05.2026 |
+| Linux+ | CompTIA | ✅ Kurs abgeschlossen |
+| PenTest+ | CompTIA | 📅 Prüfung: Juni 2026 |
+| CEH v13 | EC-Council | 📅 Prüfung: Juni 2026 |
 
-*Kurse über New Horizons (zertifizierter Bildungsträger)*
+*Kurse über New Horizons (gefördert durch Arbeitsagentur / Bildungsgutschein)*
 
 ---
 
